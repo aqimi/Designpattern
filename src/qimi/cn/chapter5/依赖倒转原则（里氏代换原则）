@@ -1,0 +1,5 @@
+动物 animal = new 猫();
+    animal.吃();
+    animal.喝();
+    animal.跑();
+    animal.叫();
